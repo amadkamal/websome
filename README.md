@@ -6,7 +6,7 @@ This project is all about my passion in web development. Thus it will be mostly 
 * Clone repositories
 
 ### Prerequisites
-Install normalize.css
+Install or download normalize.css from http://necolas.github.io/normalize.css/
 ```
 npm install normalize.css
 ```
