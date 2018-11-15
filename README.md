@@ -11,6 +11,10 @@ Install or download normalize.css from http://necolas.github.io/normalize.css/
 npm install normalize.css
 ```
 
+### HTML Semantics
+* <div> and <span> are simply for containers
+
+
 ## Referencess
 
 ### Validator
