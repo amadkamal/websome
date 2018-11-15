@@ -12,7 +12,11 @@ npm install normalize.css
 ```
 
 ### HTML Semantics
-* <div> and <span> are simply for containers
+Containers
+```
+div
+span
+```
 
 
 ## Referencess
