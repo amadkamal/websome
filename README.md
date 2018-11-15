@@ -10,3 +10,9 @@ Install or download normalize.css from http://necolas.github.io/normalize.css/
 ```
 npm install normalize.css
 ```
+
+## Referencess
+
+### Validator
+* http://validator.w3.org/
+* http://jigsaw.w3.org/css-validator/
