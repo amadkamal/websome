@@ -17,6 +17,15 @@ Containers
 div
 span
 ```
+Block Level
+```
+div
+```
+
+Inline
+```
+span
+```
 
 
 ## Referencess
