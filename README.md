@@ -16,10 +16,33 @@ Containers
 ```
 div
 span
+header
+section
+article
+nav
+aside
+footer
 ```
+
+Text-Based Elements
+```
+heading
+p
+em
+strong
+```
+
 Block Level
 ```
 div
+heading
+p
+header
+section
+article
+nav
+aside
+footer
 ```
 
 Inline
