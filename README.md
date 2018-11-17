@@ -51,8 +51,10 @@ span
 a
 ```
 
+Specificity
+3 types of selectors: type, class and Id
 
-## Referencess
+## References
 
 ### Validator
 * http://validator.w3.org/
