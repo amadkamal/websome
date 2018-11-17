@@ -52,7 +52,12 @@ a
 ```
 
 Specificity
-3 types of selectors: type, class and Id
+* 3 types of selectors: id, class and type - 1-1-1
+* break css cascade styles.
+
+Length
+* Absolute - px
+* Relative - %, em
 
 ## References
 
