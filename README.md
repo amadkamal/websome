@@ -59,6 +59,11 @@ Length
 * Absolute - px
 * Relative - %, em
 
+Display
+* Block
+* Inline
+* Inline-Block - display as inline and acception all box model properties.
+
 ## References
 
 ### Validator
