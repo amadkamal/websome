@@ -63,6 +63,16 @@ Display
 * Block
 * Inline
 * Inline-Block - display as inline and acception all box model properties.
+* none
+
+Box Model
+```
+box-sizing
+margin
+padding
+border
+
+```
 
 ## References
 
