@@ -74,6 +74,13 @@ border
 
 ```
 
+Positioning
+```
+clear
+float
+.clearfix
+```
+
 ## References
 
 ### Validator
