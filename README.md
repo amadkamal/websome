@@ -86,3 +86,5 @@ float
 ### Validator
 * http://validator.w3.org/
 * http://jigsaw.w3.org/css-validator/
+* https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow
+* https://medium.freecodecamp.org/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd
